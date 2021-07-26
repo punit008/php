@@ -13,4 +13,6 @@
     // foreach($array_data as $key => $value){
     //     echo '<pre>',var_dump($key),'</pre>'; 
     // }
+// sudo docker-compose exec laravel.test bash
+
 ?>
